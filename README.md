@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Cemil Koc, a QA Automation Engineer at [Silicone Labs] also I'm mentor, trainer-volunteer.
+Hi, I'm Cemil Koc, a QA Automation Engineer at Silicone Labs also I'm mentor
 
 - 💬 Ask me about anything [here](https://github.com/cemilkoch/cemilkoch/issues)
 
