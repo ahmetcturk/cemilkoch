@@ -1,4 +1,4 @@
-### Hi there, I'm [Cemil!] 👋
+### Hi there, I'm Cemil! 👋
 
 <a href="https://www.linkedin.com/in/cemil-koc-715ab616a/">
   <img align="left" alt="Cemil Koc | LinkedIn" width="25px" src="https://raw.githubusercontent.com/cemilkoch/cemilkoch/main/images/Linkedin.svg" />
@@ -8,7 +8,8 @@
 <br />
 <br />
 
-Hi, I'm Cemil Koc, a QA Automation Engineer at Silicone Labs also I'm mentor
+Hi, I'm Cemil Koc, a QA Automation Engineer at Silicone Labs!
+I am also Python and Java trainer.
 
 - 💬 Ask me about anything [here](https://github.com/cemilkoch/cemilkoch/issues)
 
