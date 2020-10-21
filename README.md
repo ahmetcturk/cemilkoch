@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm [Cemil!] 👋
 
-<!--
-**cemilkoch/cemilkoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/cemil-koc-715ab616a/">
+  <img align="left" alt="Cemil Koc | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi, I'm Cemil Koc, a QA Automation Engineer at [Silicone Labs] also I'm mentor, trainer-volunteer.
+
+- 💬 Ask me about anything [here](https://github.com/cemilkoch/cemilkoch/issues)
+
+
+<a href="https://github.com/cemilkoch">
+  <img align="center" alt="CemilKoch’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cemilkoch&show_icons=true&include_all_commits=true&hide-border=true"/>
+</a>
+<a href="https://github.com/cemilkoch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemilkoch&layout=compact" />
+</a>
+
+<br />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cemilkoch/count.svg" />
+</p>
