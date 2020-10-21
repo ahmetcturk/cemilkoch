@@ -1,7 +1,7 @@
 ### Hi there, I'm [Cemil!] 👋
 
 <a href="https://www.linkedin.com/in/cemil-koc-715ab616a/">
-  <img align="left" alt="Cemil Koc | LinkedIn" width="25px" src="https://raw.githubusercontent.com/YauheniPo/YauheniPo/master/assets/Linkedin.svg" />
+  <img align="left" alt="Cemil Koc | LinkedIn" width="25px" src="https://raw.githubusercontent.com/cemilkoch/cemilkoch/main/images/Linkedin.svg" />
 </a>
 
 
@@ -11,6 +11,10 @@
 Hi, I'm Cemil Koc, a QA Automation Engineer at Silicone Labs also I'm mentor
 
 - 💬 Ask me about anything [here](https://github.com/cemilkoch/cemilkoch/issues)
+
+**Languages and Tools:**
+<code><img height="45" src="https://raw.githubusercontent.com/cemilkoch/cemilkoch/main/images/java.svg"></code>
+<code><img height="45" src="raw.githubusercontent.com/cemilkoch/cemilkoch/main/images/python.svg"></code>
 
 
 <a href="https://github.com/cemilkoch">
