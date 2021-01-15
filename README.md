@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Cemil Koc, a QA Automation Engineer at Silicone Labs!
+Hi, I'm Cemil Koc, a QA Automation Engineer at I Speak Better!
 I am also Python and Java trainer.
 
 - 💬 Ask me about anything [here](https://github.com/cemilkoch/cemilkoch/issues)
